@@ -1,5 +1,6 @@
 {
 	"description": "A project that does something awesome",
+"keywords": [ "freecodecamp", "related", "words" ],
 
 	"author":"CNIU",
 	"name": "fcc-learn-npm-package-json",
