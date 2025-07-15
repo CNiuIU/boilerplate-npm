@@ -3,9 +3,10 @@
 "keywords": [ "freecodecamp", "related", "words" ],
 "license": "AAAAAA",
 "version": "1.2.0",
+
 "dependencies": {
   "package-name": "@freecodecamp/example",
-  "express": "1.1.0"
+  "version": "1.1.0"
 }
 
 
